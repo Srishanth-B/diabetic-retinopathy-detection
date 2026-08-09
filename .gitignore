@@ -1,0 +1,20 @@
+.venv/
+__pycache__/
+*.pyc
+data/*
+!data/.gitkeep
+checkpoints/*.pt
+checkpoints/*.pth
+!checkpoints/.gitkeep
+.ipynb_checkpoints/
+*.log
+.DS_Store
+.env
+wandb/
+# Large local model weights
+weights/
+*.pth
+*.pt
+
+# Official RETFound source downloaded separately
+external/RETFound/

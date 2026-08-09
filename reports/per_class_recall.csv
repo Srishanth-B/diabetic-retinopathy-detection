@@ -1,0 +1,6 @@
+class,Linear Probe,LoRA,ConvNeXt
+No DR,0.9557,0.9594,0.9705
+Mild,0.3036,0.2857,0.4464
+Moderate,0.8333,0.7867,0.8133
+Severe,0.5862,0.4828,0.4828
+Proliferative DR,0.3409,0.5227,0.5000

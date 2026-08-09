@@ -1,0 +1,6 @@
+metric,Linear Probe,LoRA,ConvNeXt
+accuracy,0.7873,0.7836,0.8109
+balanced_accuracy,0.6039,0.6075,0.6426
+qwk,0.8766,0.8790,0.8906
+macro_f1,0.6009,0.6068,0.6536
+weighted_f1,0.7798,0.7794,0.8081
